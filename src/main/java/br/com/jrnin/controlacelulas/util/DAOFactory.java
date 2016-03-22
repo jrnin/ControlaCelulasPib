@@ -1,6 +1,6 @@
 package br.com.jrnin.controlacelulas.util;
 
-import br.com.javaparaweb.financeiro.usuario.*;
+import br.com.jrnin.controlacelulas.usuario.*;
 public class DAOFactory {
 
 	public static UsuarioDAO criarUsuarioDAO() {
